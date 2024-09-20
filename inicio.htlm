@@ -1,0 +1,20 @@
+<html>
+ <head>
+   <title>Mi primera pagina web</title>
+   <meta charset="UTF-8">
+<htlm lang="es">
+ 
+ </head>
+ <body>
+   <h1>HTLM</h1>
+   <h2>HTLML5</h2>
+   <p> Esto es un parafo <br> &nbsp;&nbsp;
+de informcion de documento          . Los intros y los espacios en blanco que escribimos en el documento a la hora de visuaizarlos no se visualizan</p>
+<p>La etiqueta <b>&lt;b&gt;</b> no debemos utilizarla y en cambio utilizaremos la etiqueta <strong>&lt;strong&gt;</strong> que aparentemente se visualiza igual pero esta ultima envia al navegadro que esta informacion es muy importante en esta pagina web</p>
+<p> Lo mismo ocurre con la etiqueta <i>&lt;i&gt;</i> y la etiqueta <em>em.-esta etiqueta envia un mensaje semantico de que esta informacion es importante enla seccion en la que se encuentra.</em>
+
+<img src="koji.jpg"alt=>
+<p>Enlaces de interes</p>
+<a href="http://www.iesjuanbosco.es">IES Juan Bosco</a>
+ </body>
+</html>
